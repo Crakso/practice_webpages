@@ -1,0 +1,80 @@
+* {
+    margin: 20;
+    padding: auto;
+}
+
+.html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    margin: auto;
+    padding: 0%;
+    /* background-color: aquamarine; */
+    border: 20%;
+    max-width: 50%;
+}
+
+.Headder {
+    text-align: center;
+    /* background-color: yellow; */
+    border: 50px;
+    border-radius: 50px;
+
+    /* background-image: url(img/img1.jpg); */
+}
+
+.Headder div h1 {
+    background-color: red;
+    /* border:2px; */
+    text-transform: uppercase;
+    color: aliceblue;
+}
+.Headder div h1:hover{
+    background-color: brown;
+}
+
+.hr {
+    background-color: wheat;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: White;
+    /* height: 0px; */
+    max-width: 100%;
+
+}
+
+.container div h3 {
+    background-color: grey;
+}
+
+.Logo{
+    background-color: red;
+    border-radius: 90%;
+    
+}
+.Logo:hover{
+    background-color: brown;
+    border-radius: 100%;
+    
+}
+
+.full {
+    background-color: wheat;
+}
+
+.full h1 {
+    background-color: gray;
+}
+
+.Contacts form div {
+    margin: 6px;
+    padding: 6px;
+}
+
+.Contacts {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
